@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1582494722 source:e:\ak\programing\data\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1583043538 source:c:\users\agena\documents\dewmobile\zapya\folder\data st\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<cctype>
+	<iomanip>
+
+1583509059 source:c:\users\agena\desktop\data strutures project  peer 4\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<cctype>
+	<iomanip>
+
